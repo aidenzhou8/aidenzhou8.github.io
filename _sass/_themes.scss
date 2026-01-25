@@ -30,8 +30,7 @@ $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
 /* Custom fonts */
-$univers                    : "Univers", "Univers LT Std", -apple-system, ".SFNSText-Regular", "San Francisco", "Helvetica Neue", Arial, sans-serif;
-$sabon                      : "Sabon", "Sabon LT Std", Georgia, "Times New Roman", Times, serif;
+$inter                      : "Inter", -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
 
 /* Type scale */
 $type-size-1                : 2.441em;  // ~39.056px
@@ -43,8 +42,8 @@ $type-size-6                : 0.75em;   // ~12px
 $type-size-7                : 0.6875em; // ~11px
 $type-size-8                : 0.625em;  // ~10px
 
-$global-font-family         : $sabon;
-$header-font-family         : $univers;
+$global-font-family         : $inter;
+$header-font-family         : $inter;
 $caption-font-family        : $serif;
 
 /* ==========================================================================
