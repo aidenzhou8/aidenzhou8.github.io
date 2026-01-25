@@ -2,6 +2,48 @@
 
 <!-- start custom head snippets -->
 
+<!-- Custom Fonts: Univers and Sabon -->
+<!-- Note: These are commercial fonts. Options:
+     1. Use Adobe Fonts: <link rel="stylesheet" href="https://use.typekit.net/YOUR_KIT_ID.css">
+     2. Self-host fonts in /assets/fonts/ and update paths below
+     3. Use a web font service -->
+<style>
+  @font-face {
+    font-family: 'Univers';
+    src: url('{{ base_path }}/assets/fonts/UniversLTStd.woff2') format('woff2'),
+         url('{{ base_path }}/assets/fonts/UniversLTStd.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'Univers';
+    src: url('{{ base_path }}/assets/fonts/UniversLTStd-Bold.woff2') format('woff2'),
+         url('{{ base_path }}/assets/fonts/UniversLTStd-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'Sabon';
+    src: url('{{ base_path }}/assets/fonts/SabonLTStd-Roman.woff2') format('woff2'),
+         url('{{ base_path }}/assets/fonts/SabonLTStd-Roman.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'Sabon';
+    src: url('{{ base_path }}/assets/fonts/SabonLTStd-Italic.woff2') format('woff2'),
+         url('{{ base_path }}/assets/fonts/SabonLTStd-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+  }
+</style>
+<!-- Alternative: If using Adobe Fonts, uncomment and add your kit ID: -->
+<!-- <link rel="stylesheet" href="https://use.typekit.net/YOUR_KIT_ID.css"> -->
+
 <!-- Support for Academicons -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
 
