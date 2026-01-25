@@ -11,35 +11,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Computer Science and Mathematics, Yale University, Expected [Year]
+  * Relevant Coursework: Algorithms, Data Structures, Machine Learning, Linear Algebra, Probability Theory
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* [Position Title], [Company/Organization], [Time Period]
+  * [Description of responsibilities and achievements]
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* [Position Title], [Company/Organization], [Time Period]
+  * [Description of responsibilities and achievements]
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: Python, Java, C++, JavaScript, [others]
+* Technologies: Machine Learning, Data Science, Web Development
+* Tools: Git, Linux, [others]
 
 Publications
 ======
@@ -61,4 +48,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* [Add your service and leadership activities here]

@@ -1,61 +1,43 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Aiden Zhou",
+    "email": "aiden.zhou@yale.edu",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://aidenzhou8.github.io",
+    "summary": "CS & Math @ Yale. Passionate about computer science and mathematics, with interests in machine learning, algorithms, and theoretical computer science.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "New Haven",
       "countryCode": "US",
-      "region": ""
+      "region": "CT"
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://scholar.google.com/citations?hl=en&user=dYL7dMEAAAAJ"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "aidenzhou8",
+        "url": "https://github.com/aidenzhou8"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "aidenzhou",
+        "url": "https://linkedin.com/in/aidenzhou"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
+      "institution": "Yale University",
+      "area": "Computer Science and Mathematics",
+      "studyType": "Bachelor of Science",
       "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "endDate": "",
       "gpa": null,
       "courses": []
     }
