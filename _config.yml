@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "CS & Math @ Yale"
   location         : "New Haven, CT"
-  employer         : "Yale University"
+  employer         : # Employer name
   uri              : # URL
   email            : "aiden.zhou@yale.edu" 
 
